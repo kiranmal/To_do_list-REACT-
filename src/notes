@@ -1,0 +1,9 @@
+props that can be imported direactly or indirectly and default props and prop types
+In general we are using all the prop boolen value by the use of curly braces and use a ternary operator to execute them.
+All are the type of props 
+While using the proType from prop-types we hava to import and declare it.
+Help in the production if you given a datatype and using a different one than it will show inside of the console so .
+Default props
+confusion between what to use
+so,App.js is the father of todos and on delete are his children and 
+todos children are the todoitem
